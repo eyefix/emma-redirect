@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://ysndev.com?id=:path*",
+      "permanent": false
+    }
+  ]
+}
