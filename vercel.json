@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/:path*",
-      "destination": "https://ysndev.com?id=:path*",
+      "destination": "https://script.google.com/macros/s/AKfycbyVlbALcQ_2-1efcGLM7qi2KBkZAAyEfEQJzNVFnveG8lPSV29MHRi4iGFlwDhEQx8/exec?id=:path*",
       "permanent": false
     }
   ]
