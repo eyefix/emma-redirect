@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/:path*",
-      "destination": "https://ysndev.com/ai-switzerlangues/emma",
+      "destination": "https://ysndev.com/:path*/emma",
       "permanent": false
     }
   ]
